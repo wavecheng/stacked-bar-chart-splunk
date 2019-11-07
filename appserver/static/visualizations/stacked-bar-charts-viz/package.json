@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "echarts": "^4.3.0",
-    "jquery": "^2.2.0",
+    "jquery": "^3.4.0",
     "underscore": "^1.8.3"
   }
 }
