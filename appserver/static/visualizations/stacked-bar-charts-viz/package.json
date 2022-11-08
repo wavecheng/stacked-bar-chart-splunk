@@ -11,7 +11,7 @@
   "author": "Citrix Nanjing",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.12.6"
+    "webpack": "^5.74.0"
   },
   "dependencies": {
     "echarts": "^4.3.0",
